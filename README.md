@@ -6,3 +6,5 @@ My second training... ( done )
     adding parangraph line
 
 Make changes (done)
+
+Hi, everyone this is dev-ken.
