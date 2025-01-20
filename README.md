@@ -7,4 +7,4 @@ My second training... ( done )
 
 Make changes (done)
 
-Keep practice solving merge conflicts
+Keep practice solving merge conflicts ( done )
