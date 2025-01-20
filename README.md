@@ -7,5 +7,4 @@ My second training... ( done )
 
 Make changes (done)
 
-Hi, everyone this is dev-ken.
-Hey yow wassup everybody, this is dev-kuys
+Keep practice solving merge conflicts
