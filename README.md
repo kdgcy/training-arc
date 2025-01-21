@@ -13,3 +13,4 @@ daily merge conflict solving practice ( done )
 
 commit 1 from dev-ken
 commit 2 
+commit 3
