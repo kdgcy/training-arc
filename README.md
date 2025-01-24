@@ -11,6 +11,8 @@ Keep practice solving merge conflicts ( done )
 
 daily merge conflict solving practice ( done )
 
+daily merge conflict solving practice 2 ( done )
+
 commit 1 from dev-ken
 commit 2 
 commit 3
