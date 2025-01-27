@@ -1,3 +1,9 @@
 body {
     background-color:blanchedalmond;
 }
+
+.div1 {
+    border: 2px solid black;
+    width: 50%;
+    text-align: center;
+}
