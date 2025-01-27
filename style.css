@@ -2,8 +2,9 @@ body {
     background-color:blanchedalmond;
 }
 
-.div1 {
-    border: 2px solid black;
-    width: 50%;
+.about-me {
+    border: 3px solid red;
+    max-width: 350px;
     text-align: center;
+    margin: 100px 40%; 
 }
