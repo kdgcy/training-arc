@@ -21,4 +21,4 @@ commit 5 from dev-ken
 
 daily merge conflict solving practice 3 ( done )
 
-daily merge conflict solving practice 4 (  )
+daily merge conflict solving practice 4 ( well done )
