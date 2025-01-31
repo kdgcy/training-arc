@@ -1,0 +1,12 @@
+#rap {
+    height: 150px;
+    width: 150px;
+    border-radius: 25px;
+    background-color: black;
+    text-align: center;
+    align-content: center;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: green;
+    margin: 20% auto;
+}
